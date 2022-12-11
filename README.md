@@ -22,13 +22,13 @@
     <li><a href="#projet-4">Créez une landing page avec Javascript</a></li>
     <li><a href="#projet-5">Testez vos compétences : les langages du Web</a></li>
     <li><a href="#projet-6">Créez un site accessible pour une plateforme de photographes</a></li>
-    <li><a href="#projet-7">Acknowledgments</a></li>
-    <li><a href="#projet-8">Acknowledgments</a></li>
-    <li><a href="#projet-9">Acknowledgments</a></li>
-    <li><a href="#projet-10">Acknowledgments</a></li>
-    <li><a href="#projet-11">Acknowledgments</a></li>
-    <li><a href="#projet-12">Acknowledgments</a></li>
-    <li><a href="#projet-13">Acknowledgments</a></li>
-    <li><a href="#projet-14">Acknowledgments</a></li>
+    <li><a href="#projet-7">Développez un algorithme de recherche en JavaScript</a></li>
+    <li><a href="#projet-8">Testez vos compétences : les algorithmes en JavaScript</a></li>
+    <li><a href="#projet-9">Débuggez et testez un SaaS RH</a></li>
+    <li><a href="#projet-10">Définissez les besoins pour une app de soutien scolaire</a></li>
+    <li><a href="#projet-11">Développez une application Web avec React et React Router</a></li>
+    <li><a href="#projet-12">Développez un tableau de bord d'analytics avec React</a></li>
+    <li><a href="#projet-13">Utilisez une API pour un compte utilisateur bancaire avec React</a></li>
+    <li><a href="#projet-14">Faites passer une librairie jQuery vers React</a></li>
   </ol>
 </details>
