@@ -37,10 +37,15 @@
 ## Projet 1 - Prenez en main votre formation front-end
 ### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
 [![PDF][Pdf.pdf]][Pdf.url]
-<p align="right">(<a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a>)</p>
+<p align="right"><a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a></p>
 <br><br><br>
 
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
+### Intégration d'une maquette en HTML CSS
+[![HTML][Html.html]][Html.url] [![HTML][Css.css]][Css.url]
+<p align="right"><a href="https://github.com/ElMoucheh/Projet-2">Lien du projet</a></p>
+<br><br><br>
+
 ## Projet 3 - Dynamisez une page web avec des animations CSS
 ## Projet 4 - Créez une landing page avec Javascript
 ## Projet 5 - Testez vos compétences - les langages du Web
@@ -62,3 +67,7 @@
 
 [Pdf.pdf]: https://img.shields.io/badge/-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader
 [Pdf.url]: https://www.adobe.com/fr/acrobat.html
+[Html.html]: https://img.shields.io/badge/-HTML_5-FFFFFF?style=for-the-badge&logo=html5
+[Html.url]: https://developer.mozilla.org/fr/docs/Web/HTML
+[Css.css]: https://img.shields.io/badge/-CSS_3-1572B6?style=for-the-badge&logo=css3
+[Css.url]: https://developer.mozilla.org/fr/docs/Web/CSS
