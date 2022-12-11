@@ -38,13 +38,13 @@
 ### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
 [![PDF][Pdf.pdf]][Pdf.url]
 <p align="right"><a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a></p>
-<br><br><br>
+<br><br>
 
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
-### Intégration d'une maquette en HTML CSS
+### Le projet n°2 consiste à intégrer une maquette figma, réalisée par une équipe de designer, en HTML CSS.
 [![HTML][Html.html]][Html.url] [![HTML][Css.css]][Css.url]
 <p align="right"><a href="https://github.com/ElMoucheh/Projet-2">Lien du projet</a></p>
-<br><br><br>
+<br><br>
 
 ## Projet 3 - Dynamisez une page web avec des animations CSS
 ## Projet 4 - Créez une landing page avec Javascript
