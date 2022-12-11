@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ElMoucheh/Formation-OpenClassrooms">
-    <img src="https://www.gregory-vandevraye.fr/images/images-certif/open-classrooms.png" alt="Logo">
+    <img src="https://www.solutions-ressources-humaines.com/logo/51c0ba3cbf5680eoc_purple_.png" alt="Logo">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
