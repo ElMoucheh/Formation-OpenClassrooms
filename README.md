@@ -34,10 +34,10 @@
 </details>
 
 
-  ## Projet 1 - Prenez en main votre formation front-end
-  ### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
-  <p align="right">(<a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a>)</p>
-  [![PDF][Pdf.pdf]][Pdf.url]
+## Projet 1 - Prenez en main votre formation front-end
+### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
+<p align="right">(<a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a>)</p>
+[![PDF][Pdf.pdf]][Pdf.url]
 
 <br><br><br>
 
