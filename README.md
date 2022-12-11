@@ -1,6 +1,20 @@
-# Formation OpenClassrooms
-[![Logo](http://www.w3.org/2000/svg)](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
+<div align="center">
+  <a href="https://github.com/ElMoucheh/Formation-OpenClassrooms">
+    <img src="https://www.gregory-vandevraye.fr/images/images-certif/open-classrooms.png" alt="Logo" width="80">
+  </a>
 
-## Développeur d'application - JavaScript React
-### Réalisez des projets web de A à Z et spécialisez-vous dans l'optimisation des interfaces de vos sites.
+  <h3 align="center">Best-README-Template</h3>
 
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
