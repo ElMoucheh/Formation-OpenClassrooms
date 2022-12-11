@@ -33,7 +33,8 @@
   </ol>
 </details>
 
-## Projet 1 - Prenez en main votre formation front-end
+## Projet 1
+### Prenez en main votre formation front-end
 
 
 
