@@ -34,7 +34,7 @@
 </details>
 
 ## Projet 1 - Prenez en main votre formation front-end
-[![Next][Next.js]][Next-url]
+[![PDF][Pdf.pdf]][Pdf.url]
 
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
 ## Projet 3 - Dynamisez une page web avec des animations CSS
@@ -56,3 +56,5 @@
 
 
 
+[Pdf.pdf]: https://img.shields.io/badge/-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader
+[Pdf.url]: https://www.adobe.com/fr/acrobat.html
