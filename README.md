@@ -16,7 +16,7 @@
 <details>
   <summary>Liste des projets</summary>
   <ol>
-    <li><a href="#projet-1">Prenez en main votre formation front-end</a></li>
+    <li><a href="#projet-1---prenez-en-main-votre-formation-front-end">Prenez en main votre formation front-end</a></li>
     <li><a href="#projet-2">Transformez une maquette en site web avec HTML & CSS</a></li>
     <li><a href="#projet-3">Dynamisez une page web avec des animations CSS</a></li>
     <li><a href="#projet-4">Créez une landing page avec Javascript</a></li>
@@ -33,8 +33,8 @@
   </ol>
 </details>
 
-## Projet 1
-### Prenez en main votre formation front-end
+## Projet 1 - Prenez en main votre formation front-end
+
 
 
 
