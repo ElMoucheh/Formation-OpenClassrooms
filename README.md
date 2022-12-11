@@ -33,11 +33,12 @@
   </ol>
 </details>
 
-<a href="https://github.com/ElMoucheh/Formation-OpenClassrooms">
+
   ## Projet 1 - Prenez en main votre formation front-end
   ### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
+  <p align="right">(<a href="">back to top</a>)</p>
   [![PDF][Pdf.pdf]][Pdf.url]
-</a>
+
 <br><br><br>
 
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
