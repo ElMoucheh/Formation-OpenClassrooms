@@ -33,7 +33,7 @@
   </ol>
 </details>
 
-## Projet 1 ## Prenez en main votre formation front-end
+## Projet 1 - Prenez en main votre formation front-end
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
 ## Projet 3 - Dynamisez une page web avec des animations CSS
 ## Projet 4 - Créez une landing page avec Javascript
