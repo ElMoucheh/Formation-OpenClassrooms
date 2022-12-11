@@ -34,6 +34,8 @@
 </details>
 
 ## Projet 1 - Prenez en main votre formation front-end
+[![Next][Next.js]][Next-url]
+
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
 ## Projet 3 - Dynamisez une page web avec des animations CSS
 ## Projet 4 - Créez une landing page avec Javascript
@@ -47,6 +49,8 @@
 ## Projet 12 - Développez un tableau de bord analytics avec React
 ## Projet 13 - Utilisez une API pour un compte utilisateur bancaire avec React
 ## Projet 14 - Faites passer une librairie jQuery vers React
+
+
 
 
 
