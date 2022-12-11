@@ -42,7 +42,7 @@
 
 ## Projet 2 - Transformez une maquette en site web avec HTML CSS
 ### Le projet n°2 consiste à intégrer une maquette figma, réalisée par une équipe de designer, en HTML CSS.
-[![HTML][Html.html]][Html.url] [![HTML][Css.css]][Css.url]
+[![HTML][Html.html]][Html.url] [![CSS][Css.css]][Css.url] [![FIGMA][Figma.figma]][Figma.url]
 <p align="right"><a href="https://github.com/ElMoucheh/Projet-2">Lien du projet</a></p>
 <br><br>
 
@@ -71,3 +71,5 @@
 [Html.url]: https://developer.mozilla.org/fr/docs/Web/HTML
 [Css.css]: https://img.shields.io/badge/-CSS_3-1572B6?style=for-the-badge&logo=css3
 [Css.url]: https://developer.mozilla.org/fr/docs/Web/CSS
+[Figma.figma]: https://img.shields.io/badge/-Figma-5A45FF?style=for-the-badge&logo=figma 
+[Figma.url]: https://www.figma.com/fr/
