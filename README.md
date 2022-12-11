@@ -20,7 +20,7 @@
     <li><a href="#projet-2---Transformez-une-maquette-en-site-web-avec-HTML-&-CSS">Transformez une maquette en site web avec HTML & CSS</a></li>
     <li><a href="#projet-3---Dynamisez-une-page-web-avec-des-animations-CSS">Dynamisez une page web avec des animations CSS</a></li>
     <li><a href="#projet-4---Créez-une-landing-page-avec-Javascript">Créez une landing page avec Javascript</a></li>
-    <li><a href="#projet-5---Testez-vos-compétences-:-les-langages-du-Web">Testez vos compétences : les langages du Web</a></li>
+    <li><a href="#projet-5---Testez-vos-competences-:-les-langages-du-Web">Testez vos compétences : les langages du Web</a></li>
     <li><a href="#projet-6---Créez-un-site-accessible-pour-une-plateforme-de-photographes">Créez un site accessible pour une plateforme de photographes</a></li>
     <li><a href="#projet-7---Développez-un-algorithme-de-recherche-en-JavaScript">Développez un algorithme de recherche en JavaScript</a></li>
     <li><a href="#projet-8---Testez-vos-compétences-:-les-algorithmes-en-JavaScript">Testez vos compétences : les algorithmes en JavaScript</a></li>
@@ -33,7 +33,7 @@
   </ol>
 </details>
 
-## Projet 1 - Prenez en main votre formation front-end
+## Projet 1 ## Prenez en main votre formation front-end
 ## Projet 2 - Transformez une maquette en site web avec HTML & CSS
 ## Projet 3 - Dynamisez une page web avec des animations CSS
 ## Projet 4 - Créez une landing page avec Javascript
