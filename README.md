@@ -27,7 +27,7 @@
     <li><a href="#projet-9---Débuggez-et-testez-un-SaaS-RH">Débuggez et testez un SaaS RH</a></li>
     <li><a href="#projet-10---Définissez-les-besoins-pour-une-app-de-soutien-scolaire">Définissez les besoins pour une app de soutien scolaire</a></li>
     <li><a href="#projet-11---Développez-une-application-Web-avec-React-et-React-Router">Développez une application Web avec React et React Router</a></li>
-    <li><a href="#projet-12---Développez-un-tableau-de-bord-d'analytics-avec-React">Développez un tableau de bord d'analytics avec React</a></li>
+    <li><a href="#projet-12---Développez-un-tableau-de-bord-analytics-avec-React">Développez un tableau de bord d'analytics avec React</a></li>
     <li><a href="#projet-13---Utilisez-une-API-pour-un-compte-utilisateur-bancaire-avec-React">Utilisez une API pour un compte utilisateur bancaire avec React</a></li>
     <li><a href="#projet-14---Faites-passer-une-librairie-jQuery-vers-React">Faites passer une librairie jQuery vers React</a></li>
   </ol>
@@ -44,7 +44,7 @@
 ## Projet 9 - Débuggez et testez un SaaS RH
 ## Projet 10 - Définissez les besoins pour une app de soutien scolaire
 ## Projet 11 - Développez une application Web avec React et React Router
-## Projet 12 - Développez un tableau de bord d'analytics avec React
+## Projet 12 - Développez un tableau de bord analytics avec React
 ## Projet 13 - Utilisez une API pour un compte utilisateur bancaire avec React
 ## Projet 14 - Faites passer une librairie jQuery vers React
 
