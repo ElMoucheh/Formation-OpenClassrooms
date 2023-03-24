@@ -10,3 +10,9 @@
 [submodule "Projet-4"]
 	path = Projet-4
 	url = https://github.com/ElMoucheh/Projet-4
+[submodule "Projet-5"]
+	path = Projet-5
+	url = https://github.com/ElMoucheh/Projet-5
+[submodule "Projet-6"]
+	path = Projet-6
+	url = https://github.com/ElMoucheh/Projet-6
