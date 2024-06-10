@@ -25,3 +25,6 @@
 [submodule "Projet-10"]
 	path = Projet-10
 	url = git@github.com:ElMoucheh/Projet-10.git
+[submodule "Projet-11"]
+	path = Projet-11
+	url = git@github.com:ElMoucheh/Projet-11.git
