@@ -108,7 +108,7 @@
 
 ## Projet 13 - Utilisez une API pour un compte utilisateur bancaire avec React
 ### Développez une application React qui interagit avec une API bancaire pour afficher et gérer les informations d’un compte utilisateur.
-[![My Skills](https://skillicons.dev/icons?i=react,api)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-13">Lien du projet</a>
 <br><br>
 
