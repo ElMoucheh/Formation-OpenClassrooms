@@ -66,13 +66,13 @@
 
 ## Projet 6 - Créez un site accessible pour une plateforme de photographes
 ### Le but est de développer un site web en prenant en compte l’accessibilité pour permettre à tous les utilisateurs, y compris ceux en situation de handicap, de naviguer aisément.
-[![My Skills](https://skillicons.dev/icons?i=html,css,accessibility)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-6">Lien du projet</a>
 <br><br>
 
 ## Projet 7 - Développez un algorithme de recherche en JavaScript
 ### Ce projet porte sur la création d’un algorithme de recherche optimisé pour parcourir et filtrer des données de manière efficace en JavaScript.
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-7">Lien du projet</a>
 <br><br>
 
@@ -90,7 +90,7 @@
 
 ## Projet 10 - Définissez les besoins pour une app de soutien scolaire
 ### Dans ce projet, vous allez définir et documenter les spécifications fonctionnelles et techniques d’une application de soutien scolaire, en vous concentrant sur les besoins des utilisateurs finaux.
-[![My Skills](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-10">Lien du projet</a>
 <br><br>
 
@@ -102,4 +102,18 @@
 
 ## Projet 12 - Développez un tableau de bord analytics avec React
 ### L’objectif est de construire un tableau de bord d’analytics interactif en React pour visualiser et manipuler des données.
-[![My Skills](https://skillicons.dev/icons?i=react)](https
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br>
+<a href="https://github.com/ElMoucheh/Projet-12">Lien du projet</a>
+<br><br>
+
+## Projet 13 - Utilisez une API pour un compte utilisateur bancaire avec React
+### Développez une application React qui interagit avec une API bancaire pour afficher et gérer les informations d’un compte utilisateur.
+[![My Skills](https://skillicons.dev/icons?i=react,api)](https://skillicons.dev)<br>
+<a href="https://github.com/ElMoucheh/Projet-13">Lien du projet</a>
+<br><br>
+
+## Projet 14 - Faites passer une librairie jQuery vers React
+### Le but de ce dernier projet est de migrer une librairie existante écrite en jQuery vers une nouvelle version utilisant React.
+[![My Skills](https://skillicons.dev/icons?i=react,jquery)](https://skillicons.dev)<br>
+<a href="https://github.com/ElMoucheh/Projet-14">Lien du projet</a>
+<br><br>
