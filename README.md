@@ -114,6 +114,6 @@
 
 ## Projet 14 - Faites passer une librairie jQuery vers React
 ### Le but de ce dernier projet est de migrer une librairie existante écrite en jQuery vers une nouvelle version utilisant React.
-[![My Skills](https://skillicons.dev/icons?i=react,jquery)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,jquery,npm)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-14">Lien du projet</a>
 <br><br>
