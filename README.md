@@ -36,7 +36,7 @@
 
 ## Projet 1 - Prenez en main votre formation front-end
 ### L’objectif de ce premier projet est de se mettre dans les meilleures conditions pour réussir le parcours, puis son évolution professionnelle.
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)<br>
 <a href="https://github.com/ElMoucheh/Projet-1">Lien du projet</a>
 <br><br>
 
